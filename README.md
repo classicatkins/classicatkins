@@ -7,7 +7,7 @@
 
 - ⚡ My pet project is currently **Perpetua (JavaScript)**
 
-- 📄 Know about my experiences [here soon!]
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1BRXhqztbF89MJgBBV_hJL-gEOHz5F0Do/edit?usp=sharing&ouid=102583590241158066800&rtpof=true&sd=true)
 
 <h3 align="left">Languages and Tools:</h3>
 
