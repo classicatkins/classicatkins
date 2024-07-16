@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Melissa Atkins</h1>
-<h3 align="center">A passionate full stack developer from Saint Louis, MO.</h3>
+<h3 align="center">A passionate full stack software engineer from Saint Louis, MO.</h3>
 
 - 🔭 I’m currently working on [Time Front for work (Vue & TypeScript)](https://www.timefront.ai/)
 
-- 🌱 I’m currently learning **Vue, JavaScript, and Typescript**
+- 🌱 I’m currently learning **Angular, Perl, and Typescript**
 
-- ⚡ My pet project is currently **Perpetua (JavaScript)**
+- ⚡ My pet project is currently **Perpetua (Vue, Typescript, and AWS)**
 
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1BRXhqztbF89MJgBBV_hJL-gEOHz5F0Do/edit?usp=sharing&ouid=102583590241158066800&rtpof=true&sd=true)
 
