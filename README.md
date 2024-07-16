@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa Atkins</h1>
-<h3 align="center">A passionate full stack software engineer from Saint Louis, MO.</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Saint Louis, MO.</h3>
 
 - 🔭 I’m currently working on [Time Front for work (Vue & TypeScript)](https://www.timefront.ai/)
 
