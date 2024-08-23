@@ -7,7 +7,7 @@
 
 - ⚡ My pet project is currently **Online Gaming (Vue, Typescript, and AWS)**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1BRXhqztbF89MJgBBV_hJL-gEOHz5F0Do/edit?usp=sharing&ouid=102583590241158066800&rtpof=true&sd=true)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1O-uGS3mKkJ_4sMau3g7V8CnAqYSC34Nf/edit?usp=sharing&ouid=102583590241158066800&rtpof=true&sd=true)
 
 <h3 align="left">Languages and Tools:</h3>
 
